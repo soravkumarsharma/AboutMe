@@ -4,8 +4,6 @@
 ![bannerlinkedin](https://github.com/soravkumarsharma/AboutMe/assets/77971771/fe2b0392-b303-4fac-985f-f34d30f3d974)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=soravkumarsharma&label=Profile%20views&color=0e75b6&style=flat" alt="soravkumarsharma" /> </p>
-
 
 - 📝 I regularly write articles on [Hashnode](https://hashnode.com/@soravks)
 
