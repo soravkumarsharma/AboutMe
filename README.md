@@ -6,7 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soravkumarsharma&label=Profile%20views&color=0e75b6&style=flat" alt="soravkumarsharma" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soravkumarsharma" alt="soravkumarsharma" /></a> </p>
 
 - 📝 I regularly write articles on [Hashnode](https://hashnode.com/@soravks)
 
