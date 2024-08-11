@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [Hashnode](https://hashnode.com/@soravks)
 
-- 💬 Ask me about **AWS, Jenkins, K8s, Docker, Linux, Ansible, Terraform, Python, Java**
+- 💬 Ask me about **AWS, Azure, GitLab, GitHub Actions, Jenkins, K8s, Docker, Docker Compose, Linux, Ansible, Terraform, Python, Java**
 
 - 📫 How to reach me **add.sorav@gmail.com**
 
