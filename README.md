@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **AWS, Azure, GitLab, GitHub Actions, Jenkins, K8s, Docker, Docker Compose, Linux, Ansible, Terraform, Python, Java**
 
-- 📫 How to reach me **add.sorav@gmail.com**
+- 📫 How to reach me **contact@soravkumarsharma.info**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
